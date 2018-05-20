@@ -1,5 +1,6 @@
 window.onload = function(){
 
+  const SERVER = 'http://31.31.192.40:8080/'
   var viewer = new Cesium.Viewer('cesiumContainer');
   Cesium.Cartographic.fromDegrees(59.7975949, 30.4383431, 21);
   viewer.scene.globe.enableLighting = true;
@@ -20,7 +21,7 @@ window.onload = function(){
     
 
     //Готовим данные для отображения контуров
-    readTextFile("http://localhost:8080/jsonContours", function(text){
+    readTextFile(SERVER+"jsonContours", function(text){
 
         const data = JSON.parse(text);
         
@@ -83,7 +84,7 @@ window.onload = function(){
 
 
     //Готовим данные для отображения точек
-    readTextFile("http://localhost:8080/jsonPoints", function(text){
+    readTextFile(SERVER+"jsonPoints", function(text){
 
         const data = JSON.parse(text);
         
