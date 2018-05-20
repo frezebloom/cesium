@@ -1,0 +1,230 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          30.335655212402344,
+          59.944677506131725
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Летний сад"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.313854217529293,
+          59.940395983626914
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Эрмитаж"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.316901206970215,
+          59.95040302716667
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Петропавловская крепость"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.302224159240723,
+          59.93642530777734
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Медный всадник"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.29582977294922,
+          59.925486948001904
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Мариинский театр"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.306580066680905,
+          59.94404797428749
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Стрелка Васильевского острова"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.31584978103638,
+          59.938998693156904
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Дворцовая площадь"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.30007839202881,
+          59.94081717454152
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Здание Двенадцати коллегий (СПбГУ)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.90976333618164,
+          59.885603666855864
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Дворцы, парки и фонтаны Петергофа"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.397796630859375,
+          59.71433050483237
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Дворцы и парки Пушкина"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.458908081054688,
+          59.69158846807831
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Дворцы и парки Павловска"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.306236743927002,
+          59.934103345557624
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Исаакиевский собор"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.324583053588867,
+          59.93416146378299
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Казанский собор"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.328874588012695,
+          59.94001542934032
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Спас на Крови"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.308361053466797,
+          59.937786092892566
+        ],
+        "type": "Point"
+      },
+      "popupTemplate": "{title}",
+      "properties": {
+        "iconType": "alt2",
+        "title": "Адмиралтейство"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
