@@ -2,7 +2,7 @@ window.onload = function(){
 
   const SERVER = 'http://31.31.192.40:8080/'
   var viewer = new Cesium.Viewer('cesiumContainer');
-  Cesium.Cartographic.fromDegrees(59.7975949, 30.4383431, 21);
+
   viewer.scene.globe.enableLighting = true;
 
 
